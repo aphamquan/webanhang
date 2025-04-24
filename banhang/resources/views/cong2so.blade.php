@@ -1,0 +1,1 @@
+<p> ket qua cua  phep cong  = <?=$kq?></p>
